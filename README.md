@@ -1,8 +1,6 @@
 # Bank-Management-System-OOP
 A C++-based Banking System developed as an academic project to demonstrate Object-Oriented Programming (OOP) concepts. The system allows a Bank Manager to manage customer accounts, perform deposits and withdrawals, handle loans and cheques, and ensure secure banking operations using role-based access. Includes file handling for data persistence.
 
-# Bank Management System
-
 A console-based **Bank Management System** built in **C++** to demonstrate the practical application of **Object-Oriented Programming (OOP)** concepts. This system simulates basic banking operations such as account management, transactions, and role-based access, making it suitable for academic demonstration and beginner-level system modeling.
 
 ---
