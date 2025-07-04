@@ -35,7 +35,7 @@ A console-based **Bank Management System** built in **C++** to demonstrate the p
 ## 🙋‍♀️ Author
 
 **Noor Malik**  
-Final Year Computer Science Student  
+IT Student
 📍 Islamabad, Pakistan  
 📧 Email: noormalik56500@gmail.com  
 🔗 [LinkedIn](https://www.linkedin.com/in/noormalik56500/)
